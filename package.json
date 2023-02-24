@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "name": "discord_vc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
